@@ -9,7 +9,7 @@ This repository contains codes codes to reproduce the results and figures publis
 ### :computer: Repository Structure
 The repository is organized as follows:
 
-- Figures: This folder contains codes for generating the main figures.
+- Figure: This folder contains codes for generating the main figures.
 
 - Permuation: This folder contains scripts for the permutation analysis.
 
