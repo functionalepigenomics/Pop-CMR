@@ -1,0 +1,1 @@
+bismark_genome_preparation --bowtie2 /home/zdong/Referencedata/hg19_NCBI/

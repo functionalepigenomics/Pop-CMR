@@ -1,0 +1,1 @@
+fastqc SRRxxx.fastq --outdir pre-fastqc
