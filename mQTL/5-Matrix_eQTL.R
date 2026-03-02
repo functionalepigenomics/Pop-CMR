@@ -41,7 +41,7 @@ errorCovariance = numeric();
 # errorCovariance = read.table("Sample_Data/errorCovariance.txt");
 
 # Distance for local gene-SNP pairs
-cisDist = 1e5;
+cisDist = 1e4;
 
 ## Load genotype data
 
